@@ -1,8 +1,8 @@
 # ShadowFox Python Internship Tasks
 
-This repository contains Python programs developed as part of the ShadowFox Python Development Internship.
+This repository contains Python programs developed during the ShadowFox Python Development Internship.
 
-## Tasks Covered
+## Task 1 (Beginner Level)
 - Variables
 - Numbers
 - List
@@ -13,8 +13,12 @@ This repository contains Python programs developed as part of the ShadowFox Pyth
 - Classes & Objects
 - Inheritance
 
+## Task 2 (Intermediate Level)
+- Hangman Game 🎮
+- Web Scraper 🌐
+
 ## Description
-These programs demonstrate basic Python concepts including data types, loops, conditional statements, and object-oriented programming.
+These tasks demonstrate Python fundamentals and real-world applications like game development and web scraping.
 
 ## Author
 Mrudula Kondraju
