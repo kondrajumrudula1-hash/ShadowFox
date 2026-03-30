@@ -19,7 +19,7 @@ while attempts > 0:
     print("\nWord:", display)
 
     if "_" not in display:
-        print("🎉 You won!")
+        print(" You won!")
         break
 
     guess = input("Guess a letter: ").lower()
